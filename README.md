@@ -6,7 +6,8 @@ An attemp to build wikipedia with a new design
 Sidebar with the examples used on the project
 
 ## Article Page 
-![image](https://github.com/user-attachments/assets/3e5f8b59-e679-4360-a901-43859cf453fb)
-![image](https://github.com/user-attachments/assets/12ac0a09-bb83-4743-b53f-1e7b14e84bbf)
+![image](https://github.com/user-attachments/assets/d90c20f4-1dc0-4f91-8922-6fad8dfcbca5)
+![image](https://github.com/user-attachments/assets/c16e696b-45f5-4252-9c93-6c9b75f78f4d)
+
 Sidebar with the examples used on the project <br/>
 Navigation Bar to locate topics on the article
