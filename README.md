@@ -7,5 +7,6 @@ Sidebar with the examples used on the project
 
 ## Article Page 
 ![image](https://github.com/user-attachments/assets/3e5f8b59-e679-4360-a901-43859cf453fb)
+![image](https://github.com/user-attachments/assets/12ac0a09-bb83-4743-b53f-1e7b14e84bbf)
 Sidebar with the examples used on the project <br/>
 Navigation Bar to locate topics on the article
