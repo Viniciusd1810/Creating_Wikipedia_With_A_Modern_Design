@@ -1,5 +1,6 @@
 # Creating_Wikipedia_With_A_Modern_Design
 An attemp to build wikipedia with a new design
+Implemented Project: https://viniciusd1810.github.io/Creating_Wikipedia_With_A_Modern_Design/
 
 ## Project Demonstration
 ### Home Page - Index.html
@@ -13,4 +14,4 @@ Sidebar with the examples used on the project
 Sidebar with the examples used on the project <br/>
 Navigation Bar to locate topics on the article
 
-Live project: https://viniciusd1810.github.io/Creating_Wikipedia_With_A_Modern_Design/
+
