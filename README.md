@@ -12,3 +12,5 @@ Sidebar with the examples used on the project
 
 Sidebar with the examples used on the project <br/>
 Navigation Bar to locate topics on the article
+
+Live project: <a name= https://viniciusd1810.github.io/Creating_Wikipedia_With_A_Modern_Design/ </a>
